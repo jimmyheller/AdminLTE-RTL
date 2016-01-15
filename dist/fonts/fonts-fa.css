@@ -1,26 +1,33 @@
 @font-face {
-	font-family: 'WMitra';
-	src: url('MitraWeb-Regular.woff') format('woff');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'WMitra';
+    src: url('MitraWeb-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-	font-family: 'WMitra';
-	src: url('MitraWeb-Bold.woff') format('woff');
-	font-weight: bold;
-	font-style: normal;
+    font-family: 'WMitra';
+    src: url('MitraWeb-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
 }
 
 @font-face {
-	font-family: 'WYekan';
-	src:  url('YekanWeb-Regular.woff') format('woff');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'WYekan';
+    src: url("WebYekan/WebYekan.eot");
+    src: url("WebYekan/WebYekan.eot?#iefix") format("embedded-opentype"),
+    url("WebYekan/WebYekan.woff") format("woff"),
+    url("WebYekan/WebYekan.ttf") format("truetype"),
+    url("WebYekan/WebYekan.svg#WebYekan") format("svg");
+    font-weight: normal;
+    font-style: normal;
 }
+
 @font-face {
-  font-family: 'FontAwesome';
-  src: url('fontawesome-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
+    font-family: 'FontAwesome';
+    src: url('fontawesome-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
+
+
